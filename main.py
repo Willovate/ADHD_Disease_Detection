@@ -1,4 +1,6 @@
 # ADHD classification
+# This is our 2nd project
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
