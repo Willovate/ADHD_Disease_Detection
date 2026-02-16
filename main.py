@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# ADHD Classification Pipeline
-=======
-# ADHD classification
-# This is our 2nd project
-
->>>>>>> 4d85d944b638838964ae868266376e13c5816ec3
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
