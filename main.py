@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # ADHD Classification Pipeline
+=======
+# ADHD classification
+# This is our 2nd project
+
+>>>>>>> 4d85d944b638838964ae868266376e13c5816ec3
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -116,3 +122,6 @@ random_indices = np.random.choice(len(y_test), 20, replace=False)  # Pick 20 ran
 y_true_samples = y_test.iloc[random_indices].values  # Get corresponding actual values
 y_pred_samples = y_pred[random_indices]  # Get predicted values
 plot_waveform(y_true_samples, y_pred_samples, np.arange(20))  # Plot waveforms
+
+
+
